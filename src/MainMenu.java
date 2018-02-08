@@ -9,6 +9,7 @@ import java.io.PrintWriter;
 
 /**
  * Created by Karasiówka on 2017-04-23.
+ * main menu
  */
 public class MainMenu {
     private JButton FindPlayer;

@@ -10,6 +10,7 @@ import java.io.PrintWriter;
 
 /**
  * Created by Karasiówka on 2017-04-30.
+ * class responsible for adding new players
  */
 public class AddMatch {
     public JPanel panel1;

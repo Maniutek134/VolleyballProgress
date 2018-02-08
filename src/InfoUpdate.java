@@ -6,6 +6,7 @@ import java.io.PrintWriter;
 
 /**
  * Created by Karasiówka on 2017-05-14.
+ * class responsible for showing information about player
  */
 public class InfoUpdate {
     public JPanel panel1;

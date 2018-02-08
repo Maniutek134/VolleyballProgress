@@ -11,6 +11,7 @@ import static sun.misc.Version.println;
 
 /**
  * Created by Karasiówka on 2017-04-23.
+ * class responsible for adding new players
  */
 public class AddPlayer {
 

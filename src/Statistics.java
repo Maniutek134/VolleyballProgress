@@ -23,7 +23,7 @@ class Statistics extends  JFrame {
 
     /**
      * Creates a new demo instance.
-     *
+     *class showing graphic stats
      * @param title  the frame title.
      */
     private Player player;

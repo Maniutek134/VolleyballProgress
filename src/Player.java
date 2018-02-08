@@ -3,6 +3,7 @@ import java.util.List;
 
 /**
  * Created by Karasiówka on 2017-04-23.
+ * class which describes object PLAYER
  */
 public class Player {
     private String name;

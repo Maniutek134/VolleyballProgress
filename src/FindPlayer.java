@@ -15,6 +15,7 @@ import java.util.List;
 
 /**
  * Created by Karasiówka on 2017-04-23.
+ * choosing player form list
  */
 public class FindPlayer extends JFrame{
     public  JPanel panel1;

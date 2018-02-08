@@ -13,6 +13,7 @@ import java.util.Scanner;
 
 /**
  * Created by Karasiówka on 2017-04-25.
+ * player menu
  */
 public class PlayerMenu {
     private Player player;
